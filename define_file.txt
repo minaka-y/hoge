@@ -1,8 +1,4 @@
-#include <iostream>
-#include <opencv2/opencv.hpp>
-#include "OpenCVWrapper.h"
-#include "OpenCVRTCUtil.h"
-#include "MyFunctions.h"
+
 
 enum borderType {
 	BORDER_REPLICATE=1,
